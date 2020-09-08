@@ -1,0 +1,13 @@
+E:\BT C#\Hien thi so nguyen to nho hon100\Hien thi so nguyen to nho hon100\bin\Debug\netcoreapp3.1\Hien thi so nguyen to nho hon100.exe
+E:\BT C#\Hien thi so nguyen to nho hon100\Hien thi so nguyen to nho hon100\bin\Debug\netcoreapp3.1\Hien thi so nguyen to nho hon100.deps.json
+E:\BT C#\Hien thi so nguyen to nho hon100\Hien thi so nguyen to nho hon100\bin\Debug\netcoreapp3.1\Hien thi so nguyen to nho hon100.runtimeconfig.json
+E:\BT C#\Hien thi so nguyen to nho hon100\Hien thi so nguyen to nho hon100\bin\Debug\netcoreapp3.1\Hien thi so nguyen to nho hon100.runtimeconfig.dev.json
+E:\BT C#\Hien thi so nguyen to nho hon100\Hien thi so nguyen to nho hon100\bin\Debug\netcoreapp3.1\Hien thi so nguyen to nho hon100.dll
+E:\BT C#\Hien thi so nguyen to nho hon100\Hien thi so nguyen to nho hon100\bin\Debug\netcoreapp3.1\Hien thi so nguyen to nho hon100.pdb
+E:\BT C#\Hien thi so nguyen to nho hon100\Hien thi so nguyen to nho hon100\obj\Debug\netcoreapp3.1\Hien thi so nguyen to nho hon100.csprojAssemblyReference.cache
+E:\BT C#\Hien thi so nguyen to nho hon100\Hien thi so nguyen to nho hon100\obj\Debug\netcoreapp3.1\Hien thi so nguyen to nho hon100.AssemblyInfoInputs.cache
+E:\BT C#\Hien thi so nguyen to nho hon100\Hien thi so nguyen to nho hon100\obj\Debug\netcoreapp3.1\Hien thi so nguyen to nho hon100.AssemblyInfo.cs
+E:\BT C#\Hien thi so nguyen to nho hon100\Hien thi so nguyen to nho hon100\obj\Debug\netcoreapp3.1\Hien thi so nguyen to nho hon100.csproj.CoreCompileInputs.cache
+E:\BT C#\Hien thi so nguyen to nho hon100\Hien thi so nguyen to nho hon100\obj\Debug\netcoreapp3.1\Hien thi so nguyen to nho hon100.dll
+E:\BT C#\Hien thi so nguyen to nho hon100\Hien thi so nguyen to nho hon100\obj\Debug\netcoreapp3.1\Hien thi so nguyen to nho hon100.pdb
+E:\BT C#\Hien thi so nguyen to nho hon100\Hien thi so nguyen to nho hon100\obj\Debug\netcoreapp3.1\Hien thi so nguyen to nho hon100.genruntimeconfig.cache
