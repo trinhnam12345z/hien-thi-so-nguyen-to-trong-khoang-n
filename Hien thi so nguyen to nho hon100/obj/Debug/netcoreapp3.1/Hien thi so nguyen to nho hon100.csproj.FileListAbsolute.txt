@@ -11,3 +11,9 @@ E:\BT C#\Hien thi so nguyen to nho hon100\Hien thi so nguyen to nho hon100\obj\D
 E:\BT C#\Hien thi so nguyen to nho hon100\Hien thi so nguyen to nho hon100\obj\Debug\netcoreapp3.1\Hien thi so nguyen to nho hon100.dll
 E:\BT C#\Hien thi so nguyen to nho hon100\Hien thi so nguyen to nho hon100\obj\Debug\netcoreapp3.1\Hien thi so nguyen to nho hon100.pdb
 E:\BT C#\Hien thi so nguyen to nho hon100\Hien thi so nguyen to nho hon100\obj\Debug\netcoreapp3.1\Hien thi so nguyen to nho hon100.genruntimeconfig.cache
+E:\C#\hien-thi-so-nguyen-to-trong-khoang-n\Hien thi so nguyen to nho hon100\obj\Debug\netcoreapp3.1\Hien thi so nguyen to nho hon100.csprojAssemblyReference.cache
+E:\C#\hien-thi-so-nguyen-to-trong-khoang-n\Hien thi so nguyen to nho hon100\obj\Debug\netcoreapp3.1\Hien thi so nguyen to nho hon100.AssemblyInfoInputs.cache
+E:\C#\hien-thi-so-nguyen-to-trong-khoang-n\Hien thi so nguyen to nho hon100\obj\Debug\netcoreapp3.1\Hien thi so nguyen to nho hon100.AssemblyInfo.cs
+E:\C#\hien-thi-so-nguyen-to-trong-khoang-n\Hien thi so nguyen to nho hon100\obj\Debug\netcoreapp3.1\Hien thi so nguyen to nho hon100.csproj.CoreCompileInputs.cache
+E:\C#\hien-thi-so-nguyen-to-trong-khoang-n\Hien thi so nguyen to nho hon100\obj\Debug\netcoreapp3.1\Hien thi so nguyen to nho hon100.dll
+E:\C#\hien-thi-so-nguyen-to-trong-khoang-n\Hien thi so nguyen to nho hon100\obj\Debug\netcoreapp3.1\Hien thi so nguyen to nho hon100.pdb

@@ -12,7 +12,10 @@ namespace Hien_thi_so_nguyen_to_nho_hon100
             Console.WriteLine("---------------------------------------------");
             Console.WriteLine("Nhập n :");
             int n = int.Parse(Console.ReadLine());
-
+            hienthi();
+        }
+        static void hienthi()
+        {
             int dem = 0;
             Console.Write($"Các số nguyên tố năm trong khoảng {n} là:");
             for (int i = 2; i <= n; i++)
